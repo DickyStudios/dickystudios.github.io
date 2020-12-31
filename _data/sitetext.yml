@@ -81,13 +81,13 @@ clients:
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
+      - name: "Dickson Kubebeka"
+        role: "Founder/CEO"
+        image: assets/img/team/CAPT22.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -95,8 +95,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Muddy Khanny"
+        role: "Graphics Designer"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -105,8 +105,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Joshua Mika"
+        role: "Photographer "
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
@@ -118,7 +118,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: " E-mail us on dicksonkubebeka@gmail.com or Call us on +255620158415 "
     section: contact
     
 footer:
