@@ -1,23 +1,23 @@
 header:
     title: Welcome to Dicky Studios!
     text: It's Nice To Meet You
-    button: Tell Me More
+    button: Discover my Studio
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: " "
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Graphics Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Photography"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-laptop
+      - title: "Videography ( Shooting, Editing)"
+        desc: "two line description lorem ipsum"
+        icon: fas fa-laptop
 
 portfolio:
     title: "Portfolio"
