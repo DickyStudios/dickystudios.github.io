@@ -87,7 +87,7 @@ team:
     people:
       - name: "Dickson Kubebeka"
         role: "Founder/CEO"
-        image: assets/img/team/CAPT22.jpg
+        image: assets/img/team/111.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -97,7 +97,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Muddy Khanny"
         role: "Graphics Designer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/222.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -107,7 +107,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Joshua Mika"
         role: "Photographer "
-        image: assets/img/team/3.jpg
+        image: assets/img/team/joshua.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
