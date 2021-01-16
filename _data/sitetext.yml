@@ -82,7 +82,7 @@ about:
 team:
     title: "OUR AMAZING TEAM"
     text: ""
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 
     section: team
     people:
       - name: "Dickson Kubebeka"
@@ -91,10 +91,10 @@ team:
         social:
           #- url: https://twitter.com
           #  icon: fab fa-twitter
-          - url: https://web.facebook.com/profile.php?id=100008580705607
-            icon: fab fa-facebook-f
           - url: https://instagram.com/dickystudios/
             icon: fab fa-instagram
+          - url: https://web.facebook.com/profile.php?id=100008580705607
+            icon: fab fa-facebook-f
       - name: "Muddy Khanny"
         role: "Graphics Designer"
         image: assets/img/team/222.jpg
